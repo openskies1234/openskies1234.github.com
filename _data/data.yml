@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -16,8 +16,8 @@ sidebar:
     # phone: 012 345 6789
     timezone: America/Pacific Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin:linkedin.com/in/sakura-ticer
+    # website: blog.webjeda.com #do not add http://
+    linkedin: linkedin.com/in/sakura-ticer
     # xing: sakura
     github: openskies1234
 #   telegram: # add your nickname without '@' sign
@@ -60,8 +60,8 @@ career-profile:
       content, help, in-app guidance, learning and localization. Uses data (NPS, CSAT, Analytics) and inputs from
       stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
       improvements for increased user adoption and engagement. Expertise in knowledge management and product
-      content best practices.  
-      **Platforms and Tools.** 
+      content best practices.  \n
+      **Platforms and Tools.** \n
       ■ Authoring and Content Management Systems:\n   
       Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365.\n 
       ■ In-app guidance and onboarding: WalkMe and Gainsight:   \n
@@ -97,45 +97,39 @@ education:
   #       - Bullet point    details: |
          
 experiences:
-    title: Experiences
+    title: Independent Consultant
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Freelance
+        time: 2022 - Present
+        company: SaaS and software start-ups, San Francisco
+        details: |/n
+          ■ Provide product documentation services for enterprise SaaS and software start-ups./n
+          ■ Create sales enablement and training content for complex data and machine learning platform./n
+            
+      - role: Director, Product Documentation and User Assistance
+        time: 2019 - 2021
+        company: Parsable, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          ■ Set up and led end-to-end product content strategy and road map for knowledge base, in-app guidance, UX content, learning, and localization for enterprise SaaS platform across mobile and web. /n
+          ■ Directed content efforts for product-led growth as part of the go-to-market (GTM) strategy using in-app guidance so customers could realize value during their trial period./n
+          ■ Partnered across Product, Support and Customer Success to operationalize docs and reduced friction in self-service help; added guidance to web app for self-service learning./n
+          ■ Used customer journey mapping combined with metrics to ID friction points in self-service help that led to additional self-service touch points. /n
+          ■ Defined and implemented the tool chain for creating, managing, and localizing knowledge base and in-app messaging and guidance. /n
+          ■ Acquired tools for scale up and to reduce operating costs by >50% for authoring and in-app guidance. /n
+          ■ Launched first self-service help center dashboard for corporate visibility; maintained <1% doc tickets of total ticket volume. /n
+          -  ■ Drove in-app NPS survey (deployed in 18 local languages) to inform the strategic direction of the content as well as the product. /n
+          
+      - role: Director, Technical Communication
+        time: 1999 - 2019
+        company: Marvell Technology, Santa Clara
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          ■ Managed global team of technical communicators and documentation tools engineers to drive success of the Data Storage business unit. /n
+          ■ Drove Marvell’s first structured content strategy, along with taxonomy, information models and DITA to support personalized content. /n
+          ■ Led team on automation framework to improve timeliness and accuracy of deliveries for internal and external customers; autogenerated content from machine readable formats; integrated various IPs from 3rd parties into product docs. /n
+          ■ Designed and led development for in-house software tool for managing documentation resources, tracking status, managing workflow and producing weekly, quarterly and annual status reports saving team 10% time. /n
+          ■ Managed the delivery of customer-facing docs for multi-product hardware and software. /n
+          ■ Successfully led a global initiative for a cross-product line business model that led to 60% reduction in doc types that also enabled the GTM strategy. This increased cross-departmental operational efficiency by as much as 30%. /n
+          ■ Drove process excellence by empowering each team member to fully participate in continual process improvement; team received praise from customers during ISO 9001 audits. /n
 projects:
     title: Projects
     intro: >
@@ -143,9 +137,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Good Docs Project
+        link: "https://thegooddocsproject.dev/"
+        tagline: "An open source project to help companies lift up the quality of their documentation."
 
       - title: DevStudio
         link: "#"
@@ -207,5 +201,5 @@ skills:
       - name: Change Management
         #level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
