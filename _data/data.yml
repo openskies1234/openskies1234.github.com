@@ -9,16 +9,16 @@ sidebar:
     # Profile information
     name: Sakura Yada
     tagline: Technical Documentation Leader
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: LinkedIn.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: sakura.ticer@gmail.com
+    # phone: 012 345 6789
     timezone: America/Pacific Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/sakura-ticer/
-    xing: sakura
+    linkedin:linkedin.com/in/sakura-ticer
+    # xing: sakura
     github: openskies1234
 #   telegram: # add your nickname without '@' sign
 #   gitlab:
@@ -27,7 +27,7 @@ sidebar:
 #   stack-overflow: # Number/Username, e.g. 123456/alandoe
 #   codewars:
 #   goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: Japanese
-          level: Professional
+          level: Conversational
 
   #     - idiom: Spanish
   #       level: Professional
@@ -47,7 +47,7 @@ sidebar:
         - item: Neuroscience
           link:
 
-        - item: Home Design
+        - item: Home design and remodel
           link:
 
         - item: Swimming
@@ -60,15 +60,15 @@ career-profile:
       content, help, in-app guidance, learning and localization. Uses data (NPS, CSAT, Analytics) and inputs from
       stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
       improvements for increased user adoption and engagement. Expertise in knowledge management and product
-      content best practices.
-      Platforms and Tools
-      ■ Authoring and Content Management Systems: 
-      Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365
-      ■ In-app guidance and onboarding: WalkMe and Gainsight: 
-      ■ Learning: Camtasia and Skilljar
-      ■ Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop
-      ■ Issue Tracking: Jira and Zendesk
-      ■ Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude
+      content best practices.  
+      **Platforms and Tools.** 
+      ■ Authoring and Content Management Systems:\n   
+      Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365.\n 
+      ■ In-app guidance and onboarding: WalkMe and Gainsight:   \n
+      ■ Learning: Camtasia and Skilljar. \n
+      ■ Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop \n
+      ■ Issue Tracking: Jira and Zendesk \n
+      ■ Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude \n
  
 education:
     title: Education
