@@ -17,7 +17,7 @@ sidebar:
     timezone: America/Pacific Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: LinkedIn/in/sakura-ticer
+    linkedin: /sakura-ticer
     # xing: sakura
     github: openskies1234
 #   telegram: # add your nickname without '@' sign
@@ -151,10 +151,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers and talks:
+      These are papers and talks I've given on various topics in product content strategy.
+    papers:
       - title: Directing Product Content Strategy
         link: "https://www.youtube.com/watch?v=d7XSkA1cS8s"
         #authors: Donald E. Knuth
@@ -180,10 +178,10 @@ skills:
       - name: Project and Program Management
         level: 100%
 
-      - name: Product Content Strategy and Self-Service Help
+      - name: Self-Service Help and Strategy
         level: 100%
 
-      - name: Product Content Ecosystem and Processes
+      - name: Tools and Processes
         level: 100%
 
       - name: LMS, Learning Platforms
