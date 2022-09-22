@@ -61,14 +61,14 @@ career-profile:
       stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
       improvements for increased user adoption and engagement. Expertise in knowledge management and product
       content best practices.  
-      **Platforms and Tools:**  |
-      ■ Authoring and Content Management Systems:  |   
-      Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365  | 
-      ■ In-app guidance and onboarding: WalkMe and Gainsight. |   
-      ■ Learning: Camtasia and Skilljar  |
-      ■ Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop. |
-      ■ Issue Tracking: Jira and Zendesk. |
-      ■ Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude. |
+      **Platforms and Tools:**  
+      - Authoring and Content Management Systems:     
+      Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365   
+      - In-app guidance and onboarding: WalkMe and Gainsight.    
+      - Learning: Camtasia and Skilljar  
+      - Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop. 
+      - Issue Tracking: Jira and Zendesk. 
+      - Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude. 
  
 education:
     title: Education
@@ -103,59 +103,49 @@ experiences:
         time: 2022 - Present
         company: SaaS and software start-ups, San Francisco
         details: |
-          ■ Provide product documentation services for enterprise SaaS and software start-ups./n
-          ■ Create sales enablement and training content for complex data and machine learning platform./n
+          - Provide product documentation services for enterprise SaaS and software start-ups.
+          - Create sales enablement and training content for complex data and machine learning platform.
             
       - role: Director, Product Documentation and User Assistance
         time: 2019 - 2021
         company: Parsable, San Francisco
         details: |
-          ■ Set up and led end-to-end product content strategy and road map for knowledge base, in-app guidance, UX content, learning, and localization for enterprise SaaS platform across mobile and web. /n
-          ■ Directed content efforts for product-led growth as part of the go-to-market (GTM) strategy using in-app guidance so customers could realize value during their trial period./n
-          ■ Partnered across Product, Support and Customer Success to operationalize docs and reduced friction in self-service help; added guidance to web app for self-service learning./n
-          ■ Used customer journey mapping combined with metrics to ID friction points in self-service help that led to additional self-service touch points. /n
-          ■ Defined and implemented the tool chain for creating, managing, and localizing knowledge base and in-app messaging and guidance. /n
-          ■ Acquired tools for scale up and to reduce operating costs by >50% for authoring and in-app guidance. /n
-          ■ Launched first self-service help center dashboard for corporate visibility; maintained <1% doc tickets of total ticket volume. /n
-          -  ■ Drove in-app NPS survey (deployed in 18 local languages) to inform the strategic direction of the content as well as the product. /n
+          - Set up and led end-to-end product content strategy and road map for knowledge base, in-app guidance, UX content, learning, and localization for enterprise SaaS platform across mobile and web. 
+          - Directed content efforts for product-led growth as part of the go-to-market (GTM) strategy using in-app guidance so customers could realize value during their trial period.
+          - Partnered across Product, Support and Customer Success to operationalize docs and reduced friction in self-service help; added guidance to web app for self-service learning.
+          - Used customer journey mapping combined with metrics to ID friction points in self-service help that led to additional self-service touch points. 
+          - Defined and implemented the tool chain for creating, managing, and localizing knowledge base and in-app messaging and guidance. 
+          - Acquired tools for scale up and to reduce operating costs by >50% for authoring and in-app guidance. 
+          - Launched first self-service help center dashboard for corporate visibility; maintained <1% doc tickets of total ticket volume. 
+          - Drove in-app NPS survey (deployed in 18 local languages) to inform the strategic direction of the content as well as the product. 
           
       - role: Director, Technical Communication
         time: 1999 - 2019
         company: Marvell Technology, Santa Clara
         details: |
-          ■ Managed global team of technical communicators and documentation tools engineers to drive success of the Data Storage business unit. /n
-          ■ Drove Marvell’s first structured content strategy, along with taxonomy, information models and DITA to support personalized content. /n
-          ■ Led team on automation framework to improve timeliness and accuracy of deliveries for internal and external customers; autogenerated content from machine readable formats; integrated various IPs from 3rd parties into product docs. /n
-          ■ Designed and led development for in-house software tool for managing documentation resources, tracking status, managing workflow and producing weekly, quarterly and annual status reports saving team 10% time. /n
-          ■ Managed the delivery of customer-facing docs for multi-product hardware and software. /n
-          ■ Successfully led a global initiative for a cross-product line business model that led to 60% reduction in doc types that also enabled the GTM strategy. This increased cross-departmental operational efficiency by as much as 30%. /n
-          ■ Drove process excellence by empowering each team member to fully participate in continual process improvement; team received praise from customers during ISO 9001 audits. /n
+          - Managed global team of technical communicators and documentation tools engineers to drive success of the Data Storage business unit. 
+          - Drove Marvell’s first structured content strategy, along with taxonomy, information models and DITA to support personalized content. 
+          - Led team on automation framework to improve timeliness and accuracy of deliveries for internal and external customers; autogenerated content from machine readable formats; integrated various IPs from 3rd parties into product docs. 
+          - Designed and led development for in-house software tool for managing documentation resources, tracking status, managing workflow and producing weekly, quarterly and annual status reports saving team 10% time. 
+          - Managed the delivery of customer-facing docs for multi-product hardware and software. 
+          - Successfully led a global initiative for a cross-product line business model that led to 60% reduction in doc types that also enabled the GTM strategy. This increased cross-departmental operational efficiency by as much as 30%. 
+          - Drove process excellence by empowering each team member to fully participate in continual process improvement; team received praise from customers during ISO 9001 audits. 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are various projects I've been involved or developed as either a professional or a volunteer.
     assignments:
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
-        tagline: "An open source project to help companies lift up the quality of their documentation."
+        tagline: "An open source project to provide companies with guidelines and templates to bootstrap their documentation."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: CarbonCopies
+        link: "https://carboncopies.org/"
+        tagline: "A research foundation for the promotion of whole brain emulation. I serve as their director of fundraising to promote and develop relationships with donors."
 
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
