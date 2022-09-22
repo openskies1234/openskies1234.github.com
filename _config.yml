@@ -9,7 +9,7 @@ url: 'http://openskies1234.github.io'
 #baseurl: '/online-cv' 
 
 description: A beautiful Jekyll theme for creating resume
-# Style will be applied only after restarting the build or serve. Just choose one of the options. {note Sept. 21, 2022: testing to see if build restarts}
+# Style will be applied only after restarting the build or serve. Just choose one of the options. {note: Sept. 21, 2022: testing to see if build restarts}
 theme_skin: berry # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
