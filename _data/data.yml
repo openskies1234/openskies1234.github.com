@@ -17,7 +17,7 @@ sidebar:
     timezone: America/Pacific Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: linkedin.com/in/sakura-ticer
+    linkedin: in/sakura-ticer
     # xing: sakura
     github: openskies1234
 #   telegram: # add your nickname without '@' sign
@@ -60,7 +60,8 @@ career-profile:
       content, help, in-app guidance, learning and localization. Uses data (NPS, CSAT, Analytics) and inputs from
       stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
       improvements for increased user adoption and engagement. Expertise in knowledge management and product
-      content best practices.  
+      content best practices.    
+      
       **Platforms and Tools:**  
       - Authoring and Content Management Systems:     
       Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365   
@@ -97,9 +98,9 @@ education:
   #       - Bullet point    details: |
          
 experiences:
-    title: Independent Consultant
+    title: Experience
     info:
-      - role: Freelance
+      - role: Independent Consultant
         time: 2022 - Present
         company: SaaS and software start-ups, San Francisco
         details: |
@@ -137,7 +138,7 @@ projects:
     assignments:
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
-        tagline: "An open source project to provide companies with guidelines and templates to bootstrap their documentation."
+        tagline: "An open source project to provide companies with tools to bootstrap their documentation. I work on the [Chronologue](https://github.com/thegooddocsproject/chronologue/blob/main/documentation-and-app-roadmap.md) project, which showcases tools we develop in action."
 
       - title: CarbonCopies
         link: "https://carboncopies.org/"
@@ -174,22 +175,22 @@ skills:
 
     toolset:
       - name: Leadership and People Management
-        #level: 98%
+        level: 100%
 
       - name: Project and Program Management
-        #level: 98%
+        level: 100%
 
       - name: Product Content Strategy and Self-Service Help
-        #level: 98%
+        level: 100%
 
-      - name: Operational Excellence
-        #level: 95%
+      - name: Product Content Ecosystem and Processes
+        level: 100%
 
-      - name: Resource planning
+      - name: LMS, Learning Platforms
         #level: 85%
 
-      - name: Change Management
-        #level: 60%
+      - name: Subject Matter: Machine Learning and AI
+        level: 60%
 
 # footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
