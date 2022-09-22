@@ -17,7 +17,7 @@ sidebar:
     timezone: America/Pacific Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: /sakura-ticer
+    linkedin: sakura-ticer
     # xing: sakura
     github: openskies1234
 #   telegram: # add your nickname without '@' sign
@@ -56,20 +56,21 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Experienced SaaS digital publishing leader with end-to-end ownership of product content strategy including UX
-      content, help, in-app guidance, learning and localization. Uses data (NPS, CSAT, Analytics) and inputs from
-      stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
-      improvements for increased user adoption and engagement. Expertise in knowledge management and product
+      Experienced technical content publishing leader with end-to-end ownership of product content strategy including UX
+      content, help, in-app guidance, learning and localization. 
+      I use data (NPS, CSAT, Analytics) and inputs from stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
+      improvements for increased user adoption and engagement. I have international work experience in publishing in Japan. 
+      Expertise in building high-performing and diverse teams, knowledge management and product
       content best practices.    
       
       **Platforms and Tools:**  
       - Authoring and Content Management Systems:     
       Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365   
-      - In-app guidance and onboarding: WalkMe and Gainsight.    
+      - In-app guidance and onboarding: WalkMe and Gainsight    
       - Learning: Camtasia and Skilljar  
-      - Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop. 
-      - Issue Tracking: Jira and Zendesk. 
-      - Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude. 
+      - Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop 
+      - Issue Tracking: Jira and Zendesk 
+      - Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude 
  
 education:
     title: Education
@@ -134,7 +135,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      These are various projects I've been involved or developed as either a professional or a volunteer.
+      I've worked on numerous corporate cross-functional projects and initiatives. The majority of my work is covered under NDA. This section gives a flavor of some of the work I can share.
     assignments:
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
@@ -144,9 +145,9 @@ projects:
         link: "https://carboncopies.org/"
         tagline: "A research foundation for the promotion of whole brain emulation. I serve as their director of fundraising to promote and develop relationships with donors."
 
-      - title: Tempo
+      - title: TBD
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "This is a proposal for implementing a scalable product content infrastracture for a software start-up company. "
 
 publications:
     title: Publications
