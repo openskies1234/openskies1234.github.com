@@ -140,7 +140,7 @@ projects:
     assignments:
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
-        tagline: "An open source project to provide companies with tools to bootstrap their documentation. I work on the [Chronologue](https://github.com/thegooddocsproject/chronologue/blob/main/documentation-and-app-roadmap.md) project, which showcases tools we develop in action."
+        tagline: "An open source project to provide companies with tools to bootstrap their documentation. I work on the <a href="https://github.com/thegooddocsproject/chronologue/blob/main/documentation-and-app-roadmap.md">Chronologue</a> project, which showcases tools we develop in action."
 
       - title: CarbonCopies
         link: "https://carboncopies.org/"
