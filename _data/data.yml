@@ -17,7 +17,7 @@ sidebar:
     timezone: America/Pacific Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
-    linkedin: in/sakura-ticer
+    linkedin: LinkedIn/in/sakura-ticer
     # xing: sakura
     github: openskies1234
 #   telegram: # add your nickname without '@' sign
@@ -187,7 +187,7 @@ skills:
         level: 100%
 
       - name: LMS, Learning Platforms
-        #level: 85%
+        level: 85%
 
       - name: Subject Matter Expertise Machine Learning and AI
         level: 60%
