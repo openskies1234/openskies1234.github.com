@@ -154,21 +154,21 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    papers and talks:
+      - title: Directing Product Content Strategy
+        link: "https://www.youtube.com/watch?v=d7XSkA1cS8s"
+        #authors: Donald E. Knuth
+        conference: "BrightTalk"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Validating the Accuracy of Docs
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Sakura Ticer
+        conference: "TBD"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Setting up a doc infrastructure
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Sakura Ticer
+        conference: "TBD"
 
 skills:
     title: Skills &amp; Proficiency
