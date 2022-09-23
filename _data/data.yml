@@ -87,8 +87,8 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point
-      - degree: MS in Chemistry
-        university: San Francisco State University
+      - degree: BS in Biochemistry
+        university: UC Berkeley
   #    time: 2007 - 2011
   #     details: |
   #     Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -99,12 +99,6 @@ education:
   #       - Bullet point
   #       - Bullet point    details: |
          
-
-        - degree: Certificate, Project and Program Management
-        university: UC Santa Cruz Ext.
-         - degree: Certificate, Japanese Language
-        university: Soka University
-        
    
 experiences:
     title: Experience
