@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Technical content publishing leader with experience building and scaling teams from start-up to supplorting a multi-billion-dollar business. 
+      Technical content publishing leader with experience building and scaling teams from start-up to a multi-billion-dollar business. 
       
       I use data (NPS, CSAT, Analytics) and inputs from stakeholders and collaborators across marketing, customer success, product and engineering to drive innovation and
       improvements for increased user adoption and engagement. 
@@ -75,7 +75,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BS in Biochemistry
+      - degree: BA in Biochemistry
         university: UC Berkeley
   #     time: 2011 - 2012
   #     details: |
@@ -86,8 +86,8 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point
-      - degree: BS in Biochemistry
-        university: UC Berkeley
+      - degree: MS in Chemistry
+        university: San Francisco State University
   #    time: 2007 - 2011
   #     details: |
   #     Describe your study here lorem ipsum dolor sit amet, consectetuer
