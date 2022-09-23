@@ -86,7 +86,7 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point
-      - degree:  MS in Chemistry
+      - degree: MS in Chemistry
         university: San Francisco State University
   #    time: 2007 - 2011
   #     details: |
@@ -98,9 +98,9 @@ education:
   #       - Bullet point
   #       - Bullet point    details: |
         
-        - degree:  Certificate, Project and Program Management
+        - degree: Certificate, Project and Program Management
         university: UC Santa Cruz Ext.
-         - degree:  Certificate, Japanese Language
+         - degree: Certificate, Japanese Language
         university: Soka University
         
    
