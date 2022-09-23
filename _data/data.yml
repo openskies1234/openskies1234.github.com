@@ -97,7 +97,10 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point    details: |
-         
+      - degree: Certificate, Project and Program Management
+        university: UC Santa Cruz Ext.
+      - degree: Certificate, Japanese Language
+        university: Soka University         
    
 experiences:
     title: Experience
