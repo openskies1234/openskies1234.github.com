@@ -56,12 +56,13 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Technical content publishing leader with experience building and scaling teams from start-up to supplorting a multi-billion-dollar business. 
+      Experienced technical content publishing leader with end-to-end ownership of product content strategy including UX
+      content, help, in-app guidance, learning and localization. 
       
-      I use data (NPS, CSAT, Analytics) and inputs from stakeholders and collaborators across marketing, customer success, product and engineering to drive innovation and
+      I use data (NPS, CSAT, Analytics) and inputs from stakeholders and collaborators across marketing, customer success, and engineering to drive innovation and
       improvements for increased user adoption and engagement. 
       
-      I have expertise in product documentation, knowledge management and product content best practices. I have also worked in publishing internationally in Japan.   
+      I have expertise in building high-performing technical content teams, knowledge management and product content best practices. I also have international work experience in Japan.   
       
       **Platforms and Tools:**  
       - Authoring and Content Management Systems:     
@@ -97,12 +98,7 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point    details: |
-        - degree: Certificate, Project and Program Management
-        university: UC Santa Cruz Ext.
-         - degree: Certificate, Japanese Language
-        university: Soka University
-        
-   
+         
 experiences:
     title: Experience
     info:
@@ -111,28 +107,29 @@ experiences:
         company: SaaS and software start-ups, San Francisco
         details: |
           - Provide product documentation services for enterprise SaaS and software start-ups.
-          - Enabled sales teams to communicate complex data and machine learning product simply and clearly to customers.
+          - Create sales enablement and training content for complex data and machine learning platform.
             
       - role: Director, Product Documentation and User Assistance
         time: 2019 - 2021
         company: Parsable, San Francisco
         details: |
-          - Founded team and led strategy for help center, in-app guidance, UX writing, learning, and localization for enterprise SaaS. 
-          - Directed content used in first run experience during trial period that led to a 80% completion and value realization rate for our product led growth strategy.
+          - Created and led end-to-end product content strategy for help center, in-app guidance, UX writing, learning, and localization for enterprise SaaS across mobile and web platforms. 
+          - Directed content used in first run experience during trial period that led to a 75% completion rate and value realization as part of the product led growth strategy.
           - Partnered across Product, Support and Customer Success to operationalize docs, reduce friction in self-service help and maintained a <1% doc tickets of total ticket volume.
-          - Used customer journey to ID and add add self-service help touch point in mobile app.  
-          - Acquired in-app tool to collect voice-of-customer and provide self-service onboarding for scale up. Also, acquired authoring tool improving efficiency by 200%. 
-          - Deployed to thousands of users our first in-app surveys (NPS and CSAT) localized in 18 languages to inform the strategic direction of the content as well as the product. 
+          - Used customer journey mapping combined with metrics to ID friction points in self-service help that led to additional self-service touch points. 
+          - Defined and implemented the tool chain for creating, managing, and localizing knowledge base and in-app messaging and guidance. 
+          - Acquired tools for scale up and to reduce operating costs by >50% for authoring and in-app guidance. 
+          - Drove in-app NPS survey (deployed in 18 local languages) to inform the strategic direction of the content as well as the product. 
           
       - role: Director, Technical Communication
         time: 1999 - 2019
         company: Marvell Technology, Santa Clara
         details: |
-          - Founded a technical commnunication department that directly contributed to company success from start up to a multi-billion dollar business in seven years. 
+          - Founded a technical commnunication department that directly contributed to company success from start up to a multi-billion dollar business in less than 10 years. 
           - Managed global team of 20 writers, sr. managers, editors, UX designers and software engineers to successfully deliver product documents to maintain market leadership in the data storage business. 
-          - Led team on automation framework enabling validation of thousands of programmable registers weekly; autogenerated content from machine readable formats; integrated various IPs from 3rd parties into product docs. 
-          - Designed and led development for in-house software tool for managing documentation resources, tracking status, managing workflow and producing weekly, quarterly and annual status reports saving more than $300K per year. 
-          - Successfully led a global initiative for a cross-product line business model that led to a 60% reduction in doc types (from 50) that enabled a successful GTM strategy. This also increased cross-departmental operational efficiency by as much as 30%. 
+          - Led team on automation framework to improve timeliness and accuracy of deliveries for internal and external customers; autogenerated content from machine readable formats; integrated various IPs from 3rd parties into product docs. 
+          - Designed and led development for in-house software tool for managing documentation resources, tracking status, managing workflow and producing weekly, quarterly and annual status reports saving team $300K per year. 
+          - Successfully led a global initiative for a cross-product line business model that led to 60% reduction in doc types that also enabled the GTM strategy. This increased cross-departmental operational efficiency by as much as 30%. 
           - Drove Marvell’s first structured content strategy, along with taxonomy, information models and DITA to support personalized content. 
           - Drove process excellence by empowering each team member to fully participate in continual process improvement; team received praise from customers during ISO 9001 audits. 
 projects:
