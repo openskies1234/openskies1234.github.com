@@ -63,7 +63,7 @@ career-profile:
       
       I have expertise in product documentation, knowledge management and product content best practices. I have also worked in publishing internationally in Japan.   
       
-      **Platforms and Tools:**  
+      **Tools and Platforms:**  
       - Authoring and Content Management Systems:     
       Paligo, Zendesk, SharePoint, Documentum, Confluence and Microsoft 365   
       - In-app guidance and onboarding: WalkMe and Gainsight    
@@ -71,6 +71,7 @@ career-profile:
       - Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop 
       - Issue Tracking: Jira and Zendesk 
       - Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude 
+      - Coding: Github, SVN, and Visual Studio Code
  
 education:
     title: Education
@@ -97,7 +98,7 @@ education:
   #     pretium quis, sem.
   #       - Bullet point
   #       - Bullet point    details: |
-      - degree: Certificate, Project and Program Management
+      - degree: Certificate, Program Management
         university: UC Santa Cruz Ext.
       - degree: Certificate, Japanese Language
         university: Soka University         
@@ -137,7 +138,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      I've worked on numerous corporate cross-functional projects and initiatives. The majority of my work is covered under NDA. This section gives a flavor of some of the work I can share.
+      I've worked on numerous corporate cross-functional projects and initiatives. The majority of my work is under NDA. This section gives a flavor of some of my public projects.
     assignments:
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
@@ -184,14 +185,14 @@ skills:
       - name: Self-Service Help and Strategy
         level: 100%
 
-      - name: Tools and Processes
+      - name: Publishing Tools and Processes
         level: 100%
 
       - name: LMS, Learning Platforms
         level: 85%
 
-      - name: Subject Matter Expertise Machine Learning and AI
-        level: 60%
+      - name: Coding Experience
+        level: 25%
 
 # footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
