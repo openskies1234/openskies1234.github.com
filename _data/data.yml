@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sakura Ticer
-    tagline: Technical Communication and Product Documentation
+    tagline: Product Documentation
     avatar: LinkedIn.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,9 +56,17 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      I am a product content strategy leader who focuses on delivering quality content at scale to make customers and companies successful. I have the experience of helping a start-up become a billion-dollar business by delivering best-in-class documentation.
+      I'm a product content strategy leader who focuses on delivering quality content at scale to make customers and companies successful. I have the experience of helping a start-up become a billion-dollar business by delivering best-in-class documentation.
 
-      I am an expert in defining and executing a scalable content and documentation ecosystem. I've developed efficient, automation content workflows in collaboration with cross-functional teams, from engineering and product to customer success, support and marketing. 
+      I have defined and executed on a scalable content and documentation ecosystem. I've developed efficient, automation content workflows in collaboration with cross-functional teams, from engineering and product to customer success, support and marketing. 
+
+      I stay abreast of trends and best-practices in content strategy to ensure and adopt those that are best suited for the business.
+
+      I am an excellent collaborator with my business partners, defining and aligning a vision that has transformational and measurable business impact. 
+
+      I've developed highly-valued teams and mentored, coached and inspired future leaders in technical communication.
+
+      I bring my unique background in science together with my writing and localization experience to make content teams effective.
 
       I am an excellent collaborator with my business partners, defining and aligning a vision that has transformational and measurable business impact.    
       
@@ -71,7 +79,7 @@ career-profile:
       - Illustration: Visio, Lucid Chart, Google Draw, Illustrator, and Photoshop 
       - Issue Tracking: Jira and Zendesk 
       - Analytics: Google Analytics, Zendesk, Gainsight, WalkMe and Amplitude 
-      - Coding: Github, SVN, Visual Studio Code
+      - Coding: Github, SVN, and Visual Studio Code
  
 education:
     title: Education
@@ -102,7 +110,7 @@ education:
         university: UC Santa Cruz Ext.
       - degree: Certificate, Japanese Language
         university: Soka University         
-      - degree: Certificate, Knowledge Centered Services, in progress
+      - degree: Certificate, Knowledge Centered Services (In progress)
         university: Consortium of Service Innovation       
 experiences:
     title: Experience
@@ -112,7 +120,7 @@ experiences:
         company: SaaS and software start-ups, San Francisco
         details: |
           - Provide product documentation services for enterprise SaaS and software start-ups.
-          - Enabled sales teams to communicate complex data and machine learning product simply and clearly to customers.
+          - Enable sales teams to communicate complex data and machine learning product simply and clearly to customers.
             
       - role: Director, Product Documentation and User Assistance
         time: 2019 - 2021
@@ -122,7 +130,7 @@ experiences:
           - Directed content used in first run experience during trial period that led to a 80% completion and value realization rate for our product led growth strategy.
           - Partnered across Product, Support and Customer Success to operationalize docs, reduce friction in self-service help and maintained a <1% doc tickets of total ticket volume.
           - Led help-center journey strategy to ID gaps and opportunities that led to addition of self-service help touch point in mobile app.  
-          - Acquired in-app tool to collect voice-of-customer and provide self-service onboarding for scale up. Also, acquired authoring tool improving efficiency by 200%. 
+          - Acquired and integrated tooling in-app to more easily collect voice-of-customer and provide self-service onboarding for scale up. Also, acquired authoring tool improving writer efficiency by 2X. 
           - Deployed to thousands of users our first in-app surveys (NPS and CSAT) localized in 18 languages to inform the strategic direction of the content as well as the product. 
           
       - role: Director, Technical Communication
