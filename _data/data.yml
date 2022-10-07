@@ -145,17 +145,17 @@ projects:
     
     assignments:
             
-      - title: Product Documentation
+     - title: Product Documentation
         link: "https://docs.google.com/document/d/1L4KiC8LWsVXTfFRqK2mmVUdm5sgRGQw_rlp3-DH1XGw/edit?usp=sharing"
-        tagline: "These are samples of product documentation that I wrote."
+        tagline: "These are my samples of product documentation."
       
-      - title: In-app Content
+     - title: In-app Content
         link: "https://docs.google.com/document/d/1lUpQVw3nu7abCx_6Mf4fZOa9skWD3M9Sx91DWv6Cmgs/edit?usp=sharing"
-        tagline: "These are samples of my in-app writing."
+        tagline: "These are samples of in-app writing."
 
-      - title: Good Docs Project
+     - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
-        tagline: "This is an open source project that I currently contribute to. Samples are TBD"
+        tagline: "This is an open source project that I am working on. Samples TBD"
 
      
 
@@ -165,7 +165,7 @@ publications:
       
     papers:
 
-      - title: Cyanoacrylate Stripping of the Stratum Corneum for Electron Paramagnetic Spectroscopy
+       title: Cyanoacrylate Stripping of the Stratum Corneum for Electron Paramagnetic Spectroscopy
         link: "https://www.google.com/books/edition/Cyanoacrylate_Stripping_of_the_Stratum_C/_0s9OAAACAAJ?hl=en&kptab=overview"
         #authors: Sakura Ticer
         conference: "This is a link to the title of my thesis. The full documentation is available in hardcopy only."
