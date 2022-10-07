@@ -143,30 +143,34 @@ projects:
     assignments:
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
-        tagline: "An open source project to provide companies with tools to bootstrap their documentation. I work on the [Chronologue]<a href="https://github.com/thegooddocsproject/chronologue/blob/main/documentation-and-app-roadmap.md">Chronologue</a> project, which showcases tools we develop in action."
+        tagline: "An open source project to provide organizations with the tools to bootstrap their documentation. I currently contribute to the glossary for the tool called Chronologue, which will showcase the doc tools in action."
 
       - title: CarbonCopies
         link: "https://carboncopies.org/"
         tagline: "A research foundation for the promotion of whole brain emulation. I serve as their director of fundraising to promote and develop relationships with donors."
 
-      - title: TBD
+      - title: In-app Product Content
+        link: "https://drive.google.com/drive/folders/1I0-nHYtuLuXeZIDy1EauolaTq0_VKtbO"
+        tagline: "These are samples of my in-app writing. "
+        
+         - title: In-app Product Content
         link: "#"
-        tagline: "This is a proposal for implementing a scalable product content infrastructure for a software start-up company. "
+        tagline: "These are samples of help articles I wrote. "
 
 publications:
     title: Publications
     intro: |
-      These are papers and talks I've given on various topics in product content strategy.
+      These are papers and talks I've given on various topics including product content strategy.
     papers:
       - title: Directing Product Content Strategy
         link: "https://www.youtube.com/watch?v=d7XSkA1cS8s"
         #authors: Donald E. Knuth
         conference: "BrightTalk"
 
-      - title: Validating the Accuracy of Docs
-        link: "#"
-        authors: Sakura Ticer
-        conference: "TBD"
+      - title: Cyanoacrylate Stripping of the Stratum Corneum for Electron Paramagnetic Spectroscopy
+        link: "https://www.google.com/books/edition/Cyanoacrylate_Stripping_of_the_Stratum_C/_0s9OAAACAAJ?hl=en&kptab=overview"
+        #authors: Sakura Ticer
+        conference: "NA"
 
       - title: Setting up a doc infrastructure
         link: "#"
