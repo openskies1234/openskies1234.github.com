@@ -143,14 +143,15 @@ projects:
     #intro: >
     
     assignments:
-      - title: In-app Content
-        link: "https://docs.google.com/document/d/1lUpQVw3nu7abCx_6Mf4fZOa9skWD3M9Sx91DWv6Cmgs/edit?usp=sharing"
-        tagline: "These are samples of my in-app writing."
-        
+            
       - title: Product Documentation
         link: "https://docs.google.com/document/d/1L4KiC8LWsVXTfFRqK2mmVUdm5sgRGQw_rlp3-DH1XGw/edit?usp=sharing"
         tagline: "These are samples of product documentation that I wrote."
       
+      - title: In-app Content
+        link: "https://docs.google.com/document/d/1lUpQVw3nu7abCx_6Mf4fZOa9skWD3M9Sx91DWv6Cmgs/edit?usp=sharing"
+        tagline: "These are samples of my in-app writing."
+
       - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
         tagline: "This is an open source project that I currently contribute to. Samples are TBD"
@@ -159,18 +160,14 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      These are papers and talks I've given on various topics including product content strategy.
+    #intro: |
+      
     papers:
-      - title: Directing Product Content Strategy
-        link: "https://www.youtube.com/watch?v=d7XSkA1cS8s"
-        #authors: Donald E. Knuth
-        conference: "BrightTalk"
 
       - title: Cyanoacrylate Stripping of the Stratum Corneum for Electron Paramagnetic Spectroscopy
         link: "https://www.google.com/books/edition/Cyanoacrylate_Stripping_of_the_Stratum_C/_0s9OAAACAAJ?hl=en&kptab=overview"
         #authors: Sakura Ticer
-        conference: "A link to the title of my thesis."
+        conference: "This is a link to the title of my thesis. The full documentation is available in hardcopy only."
 
 
 skills:
