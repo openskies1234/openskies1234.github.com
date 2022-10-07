@@ -145,15 +145,15 @@ projects:
     
     assignments:
             
-     - title: Product Documentation
+      - title: Product Documentation
         link: "https://docs.google.com/document/d/1L4KiC8LWsVXTfFRqK2mmVUdm5sgRGQw_rlp3-DH1XGw/edit?usp=sharing"
-        tagline: "These are my samples of product documentation."
+        tagline: "These are samples of product documentation."
       
-     - title: In-app Content
+      - title: In-app Content
         link: "https://docs.google.com/document/d/1lUpQVw3nu7abCx_6Mf4fZOa9skWD3M9Sx91DWv6Cmgs/edit?usp=sharing"
         tagline: "These are samples of in-app writing."
 
-     - title: Good Docs Project
+      - title: Good Docs Project
         link: "https://thegooddocsproject.dev/"
         tagline: "This is an open source project that I am working on. Samples TBD"
 
